@@ -1,0 +1,12 @@
+body{background: rgb(201, 151, 216);font-family: "Trebuchet MS", Arial, Helvetica, ans-serif;font-size: 20pt;}
+
+header{color: white;text-align: center;}
+
+section{background: white;width: 500px;padding: 15px;border-radius: 10px;margin: auto;box-shadow: 3px 3px 10px rgb(113, 36, 133);}
+
+footer{color: white;text-align: center;}
+
+img{width: 250px;height: 250px;border-radius: 150px;}
+
+div{text-align: center;padding: 10px;}
+
